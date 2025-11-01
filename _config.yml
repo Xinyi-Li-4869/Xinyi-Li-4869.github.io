@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "selfie.png"
+  avatar           : "selfie_Small.png"
   name             : "Xinyi Li"
   pronouns         : # example: "she/her"  
   bio              : "Personal Information"
