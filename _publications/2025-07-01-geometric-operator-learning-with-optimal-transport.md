@@ -2,15 +2,15 @@
 title: "Geometric Operator Learning with Optimal Transport"
 collection: publications
 permalink: /publication/2025-geometric-operator-learning-optimal-transport
-date: 2025-07-01
-venue: "arXiv preprint arXiv:2507.20065"
-paperurl: "https://arxiv.org/abs/2507.20065"
-citation: "Xinyi Li, Zongyi Li, Nikola Kovachki, and Anima Anandkumar. arXiv:2507.20065, 2025."
+date: 2025-11-01
+venue: "Journal of Machine Learning Research"
+paperurl: "https://jmlr.org/papers/volume26/25-1380/25-1380.pdf"
+citation: "Xinyi Li, Zongyi Li, Nikola Kovachki, and Anima Anandkumar. &quot;Geometric Operator Learning with Optimal Transport.&quot; <i>Journal of Machine Learning Research</i> 26 (2025) 1-38."
 category: manuscripts
 no_title_link: true
 ---
 
-Preprint available on arXiv.
+Published in Journal of Machine Learning Research 26 (2025) 1-38.
 
 template:
 
